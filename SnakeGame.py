@@ -146,10 +146,7 @@ def snake_game():
             del snake_list[0]
             
             
-        
-        
-        
-        
+    
         snake(snake_block, snake_list)
         
         
